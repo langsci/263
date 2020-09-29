@@ -1,7 +1,1 @@
-{"versions": [{"versiontype": "proofreading",
-		"title": "Getting others to do things",
-		"authors": [{"name": "Simeon Floyd"},{"name":" Giovanni Rossi"},{"name":" N. J. Enfield"}],
-	"license": "CC-BY-4.0",
-	"publishedAt": "2020-02-28T22:48:49.000Z"}
-	]
-}
+{"versions": [{"authors": [{"name": "Simeon Floyd"}, {"name": " Giovanni Rossi"}, {"name": " N. J. Enfield"}], "title": "Getting others to do things", "publishedAt": "2020-02-28T22:48:49.000Z", "license": "CC-BY-4.0", "versiontype": "proofreading"}, {"title": "Getting others to do things", "versiontype": "first_edition", "license": "CC-BY-4.0", "publishedAt": "2020-09-29T09:43:19.735661", "authors": [{"name": "Simeon Floyd"}, {"name": " Giovanni Rossi"}, {"name": " N. J. Enfield"}]}]}
